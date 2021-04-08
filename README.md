@@ -1,4 +1,4 @@
-#Landing Page using HTML, SCSS, and JavaScript 
+# Landing Page using HTML, SCSS, and JavaScript 
 
 This is a code along from *How to Make a Landing Page using HTML, SCSS, and JavaScript - Full Course* by Coder Coder on Youtube.
 
